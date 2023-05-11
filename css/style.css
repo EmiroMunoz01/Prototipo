@@ -84,8 +84,8 @@ body {
 .header_section {}
 
 .header_section .container-fluid {
-  padding-right: 25px;
-  padding-left: 25px;
+  padding-right: 50px;
+  padding-left: 50x;
 }
 
 .header_section .nav_container {
