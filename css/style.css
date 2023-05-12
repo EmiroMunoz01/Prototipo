@@ -510,6 +510,7 @@ a:focus {
 
 .transform__content {
   width: 80%;
+  position: absolute;
   left: 50%;
   top: 50%;
 
